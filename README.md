@@ -21,6 +21,6 @@ With international production and distribution capabilities, the group serves cu
 ## Users & Passwords
 | System | User Name | Password |
 |------|--------------|-------------|
-| Windows Raz | Yu/6iHbXpjQ7yhFg7lFxYw== | mKPYT7S8GezJg2M21GCAvA== |
+| Windows Raz | yFyqoBZ5/ok3umzob11SvpgegKzfoe8D0kjuSafr7+Q= | mKPYT7S8GezJg2M21GCAvA== |
 | Cimplicity Service User | recY63l+W7tC8F6Jfs1Iqw== | EDhmZM58vvNxVTHg+Wrwow== |
 | FactoryTalk Magma User | nMs70qHE6NyTZ84rmKYCZBwu4Re5t6BSxEZgCL/n5ys= | bYxlrKbWSnqURv5DMnxCPQ== |
