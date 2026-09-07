@@ -16,7 +16,7 @@ With international production and distribution capabilities, the group serves cu
 | 172.22.20.2 | POLY-CIMP-OH |  | IL | Main Cimplicity Operations Hub Server |  | |
 | 172.22.20.3 | POLY-CIMP-HIST |  | IL | Main Cimplicity Historian Server |  | |
 | 172.22.20.5 | POLY-CIMP-DEV |  | IL | Main DEV Server |  | |
-| 172.22.200.14 | ERP-TEST26 |  | IL | Priority TEST server |  | |
+| 172.22.200.14 | ERP-TEST26 |  | IL | Priority TEST server (ERP-TEST26\PRI) |  | |
 | 192.168.66.10 | PolyRM-PF |  | IL | FactoryTalk Magma Inspection server |  | |
 
 ## Users & Passwords
@@ -25,3 +25,4 @@ With international production and distribution capabilities, the group serves cu
 | Windows Raz | yFyqoBZ5/ok3umzob11SvpgegKzfoe8D0kjuSafr7+Q= | mKPYT7S8GezJg2M21GCAvA== |
 | Cimplicity Service User | recY63l+W7tC8F6Jfs1Iqw== | EDhmZM58vvNxVTHg+Wrwow== |
 | FactoryTalk Magma User | nMs70qHE6NyTZ84rmKYCZBwu4Re5t6BSxEZgCL/n5ys= | bYxlrKbWSnqURv5DMnxCPQ== |
+| Priority TEST SQL | XN3eMQ3dPlP6Vc2YJKUcVg== | hw/XtEF2Iwc8ckgLrVjgLQ== |
