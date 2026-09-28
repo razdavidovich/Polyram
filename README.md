@@ -26,3 +26,4 @@ With international production and distribution capabilities, the group serves cu
 | Cimplicity Service User | recY63l+W7tC8F6Jfs1Iqw== | EDhmZM58vvNxVTHg+Wrwow== |
 | FactoryTalk Magma User | nMs70qHE6NyTZ84rmKYCZBwu4Re5t6BSxEZgCL/n5ys= | bYxlrKbWSnqURv5DMnxCPQ== |
 | Priority TEST SQL | XN3eMQ3dPlP6Vc2YJKUcVg== | hw/XtEF2Iwc8ckgLrVjgLQ== |
+| CIMPLICITY-DEV SQL | sKPZTjEFRv5a96HcMTJ4xw== | 4qm9iXQe49SISGUtruM11w== |
