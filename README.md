@@ -9,6 +9,9 @@ With international production and distribution capabilities, the group serves cu
 
 # Support
 
+## VPN
+<img width="882" height="705" alt="image" src="https://github.com/user-attachments/assets/a4423ee8-17a5-429d-b59a-d3d390a3ee42" />
+
 ## Server & Computers
 |IP|Computer name|Plant|Location|Description|OS|Comments|
 |--|-------------|-----|--------|-----------|--|--------|
